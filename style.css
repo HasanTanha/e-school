@@ -84,3 +84,31 @@ small{
 .courses-card:hover{
     box-shadow: 0 0 35px lightpink;
 }
+
+/* Testimonial Section  */
+.carousel-item{
+    padding: 10% 20%;
+}
+.carousel-img{
+    width: 20%;
+    border-radius: 100%;
+}
+em{
+    margin: 35px 0 0 75px;
+}
+h1{
+    font-weight: bold;
+    padding-top: 35px;
+}
+.carousel-control-prev,   
+.carousel-control-next
+{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #218838;
+    top: calc(50% - 25px);
+}
+.carousel-control-prev{
+    left: 5%;
+}
