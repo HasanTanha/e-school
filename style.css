@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.sign-button{
+    border-radius: 25px;
+    padding: 0 30px;
+}
+#title h1{
+    font-family: font-family: 'Kanit', sans-serif;
+    font-weight:bold;
+    font-size: 50px;
+}
+.lg-button{
+    margin: 25px 0;
+    border-radius: 25px;
+    padding: 5px 30px;
+}
+#title{
+    background-color: #e6f5e6;
+    padding-bottom: 30px;
+}
+
+.title-image{
+    width: 95%;
+    height: 90%;
+}
