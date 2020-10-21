@@ -112,3 +112,17 @@ h1{
 .carousel-control-prev{
     left: 5%;
 }
+
+/* Footer section */
+
+#footer{
+    background-color: #282531;
+    color: white;
+}
+#footer small{
+    color: white;
+}
+.footer-part{
+    text-align: center;
+    padding: 45px 0 25px 0;
+}
