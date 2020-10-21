@@ -54,3 +54,33 @@ body{
 #features h4{
     font-weight: bold;
 }
+
+/* Online Courses Cards Section  */
+
+small{
+    font-weight: bold;
+    color: lightslategrey;
+}
+
+.enroll-button{
+    padding: 5px 15px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.enroll-button:hover{
+    background-color: red;
+    color: white;
+}
+
+#online-courses .card-deck{
+    margin-bottom: 50px;
+}
+
+.courses-card{
+    box-shadow: 0 0 35px lightgrey;
+}
+
+.courses-card:hover{
+    box-shadow: 0 0 35px lightpink;
+}
